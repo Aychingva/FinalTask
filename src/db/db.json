@@ -1,0 +1,557 @@
+{
+  "categories": [
+    {
+      "id": "1",
+      "name": "Women",
+      "subcategories": [
+        {
+          "id": 101,
+          "name": "Coats",
+          "products": [
+            {
+              "id": 1001,
+              "title": "Winter Coat",
+              "price": 120,
+              "image": "https://www.houseofbruar.com/images/products/medium/TS27217BLACK.jpg",
+              "sizes": [
+                "S",
+                "M",
+                "L",
+                "XL"
+              ],
+              "colors": [
+                "Black",
+                "Blue",
+                "White"
+              ],
+              "createdate": 1734792270
+            },
+            {
+              "id": 1002,
+              "title": "Trench Coat",
+              "price": 150,
+              "image": " https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScXg5n7v3COucy74a4j2H58_4opUfBd-P8LPqD_ac6OlcfQVScsPq8YPPM5MTtDYSmZlo&usqp=CAU",
+              "sizes": [
+                "S",
+                "M",
+                "L"
+              ],
+              "colors": [
+                "Beige",
+                "Green"
+              ],
+              "createdate": 1134792270
+            }
+          ]
+        },
+        {
+          "id": 102,
+          "name": "Jeans",
+          "products": [
+            {
+              "id": 1101,
+              "title": "Skinny Jeans",
+              "price": 60,
+              "image": "https://americantall.com/cdn/shop/files/American-Tall-Georgia-HIGH-RISE-SKINNY-Jeans-Classic-Blue-full_1946x.jpg?v=1698874255",
+              "sizes": [
+                "S",
+                "M",
+                "L",
+                "XL"
+              ],
+              "colors": [
+                "Blue",
+                "Black"
+              ],
+              "createdate": 163479545
+            },
+            {
+              "id": 1102,
+              "title": "Straight Jeans",
+              "price": 55,
+              "image": "https://images.bestsellerclothing.in/data/only/15-sep-2022/255136001_g0.jpg?width=1080&height=1355&mode=fill&fill=blur&format=auto",
+              "sizes": [
+                "24",
+                "26",
+                "28",
+                "30"
+              ],
+              "colors": [
+                "Light Blue",
+                "Dark Blue"
+              ],
+              "createdate": 173479545
+            }
+          ]
+        },
+        {
+          "id": 103,
+          "name": "T-Shirts",
+          "products": [
+            {
+              "id": 1201,
+              "title": "Graphic T-Shirt",
+              "price": 25,
+              "image": "https://www.sojoee.com/wp-content/uploads/2023/12/TPBL-151-White-vogue-print-tshirt-for-women.jpg",
+              "sizes": [
+                "S",
+                "M",
+                "L"
+              ],
+              "colors": [
+                "White",
+                "Black",
+                "Red"
+              ],
+              "createdate": 1634792270
+            },
+            {
+              "id": 1202,
+              "title": "Plain T-Shirt",
+              "price": 20,
+              "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnp-s5J9PRvOzucoPadyObcAyi8KNsIWjoXw&s",
+              "sizes": [
+                "S",
+                "M",
+                "L",
+                "XL"
+              ],
+              "colors": [
+                "Pink",
+                "Blue"
+              ],
+              "createdate": 1234792270
+            }
+          ]
+        },
+        {
+          "id": 104,
+          "name": "Sweatshirts",
+          "products": [
+            {
+              "id": 1301,
+              "title": "Hooded Sweatshirt",
+              "price": 40,
+              "image": "https://i5.walmartimages.com/seo/Casual-Plain-Hooded-Pullover-Brown-Women-Sweatshirts_346cc96e-5c61-4ed0-b3a3-bd5cabdcf215.9b99b2f50cad4109ad21767866752bf1.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF",
+              "sizes": [
+                "M",
+                "L",
+                "XL"
+              ],
+              "colors": [
+                "Gray",
+                "Black"
+              ],
+              "createdate": 15432468
+            },
+            {
+              "id": 1302,
+              "title": "Oversized Sweatshirt",
+              "price": 50,
+              "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-Kze35WlJzrTuKxMkY8gW1h5kfrWfTpev-w&s",
+              "sizes": [
+                "M",
+                "L"
+              ],
+              "colors": [
+                "Beige",
+                "Pink"
+              ],
+              "createdate": 1284792270
+            }
+          ]
+        },
+        {
+          "id": 105,
+          "name": "Shoes",
+          "products": [
+            {
+              "id": 1401,
+              "title": "Running Shoes",
+              "price": 80,
+              "image": "https://i5.walmartimages.com/seo/Women-Shoes-Ladies-Breathable-Sneakers-Non-Slip-Soft-Sole-Mesh-Tennis-Walking-Fashion-Pink-7_66136bd9-432b-435f-aeb7-384ee98e8723.aec7fa8ded5265701ced5a03e440d0d3.jpeg",
+              "sizes": [
+                "36",
+                "37",
+                "38",
+                "39",
+                "40"
+              ],
+              "colors": [
+                "Black",
+                "White",
+                "Pink"
+              ],
+              "createdate": 1234782270
+            },
+            {
+              "id": 1402,
+              "title": "High Heels",
+              "price": 100,
+              "image": "https://media.istockphoto.com/id/1143262564/photo/girl-legs-in-bright-stylish-stiletto-shoes.jpg?s=612x612&w=0&k=20&c=8dxmhGhtGgGq0RyznqDYofg5Q4RhI-KCJCT2f81x-TA=",
+              "sizes": [
+                "36",
+                "37",
+                "38",
+                "39"
+              ],
+              "colors": [
+                "Red",
+                "Nude"
+              ],
+              "createdate": 177665270
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Men",
+      "subcategories": [
+        {
+          "id": 201,
+          "name": "Coats",
+          "products": [
+            {
+              "id": 2001,
+              "title": "Winter Coat",
+              "price": 120,
+              "image": "/images/women/coats/winter-coat.jpg",
+              "sizes": [
+                "S",
+                "M",
+                "L",
+                "XL"
+              ],
+              "colors": [
+                "Black",
+                "Blue",
+                "White"
+              ],
+              "createdate": 1234782270
+            },
+            {
+              "id": 2002,
+              "title": "Trench Coat",
+              "price": 150,
+              "image": "/images/women/coats/trench-coat.jpg",
+              "sizes": [
+                "S",
+                "M",
+                "L"
+              ],
+              "colors": [
+                "Beige",
+                "Green"
+              ],
+              "createdate": 156665270
+            }
+          ]
+        },
+        {
+          "id": 202,
+          "name": "Jeans",
+          "products": [
+            {
+              "id": 2101,
+              "title": "Skinny Jeans",
+              "price": 60,
+              "image": "/images/women/jeans/skinny-jeans.jpg",
+              "sizes": [
+                "24",
+                "26",
+                "28",
+                "30"
+              ],
+              "colors": [
+                "Blue",
+                "Black"
+              ],
+              "createdate": 1454782270
+            },
+            {
+              "id": 2102,
+              "title": "Straight Jeans",
+              "price": 55,
+              "image": "/images/women/jeans/straight-jeans.jpg",
+              "sizes": [
+                "24",
+                "26",
+                "28",
+                "30"
+              ],
+              "colors": [
+                "Light Blue",
+                "Dark Blue"
+              ],
+              "createdate": 156665270
+            }
+          ]
+        },
+        {
+          "id": 203,
+          "name": "T-Shirts",
+          "products": [
+            {
+              "id": 2201,
+              "title": "Graphic T-Shirt",
+              "price": 25,
+              "image": "/images/women/tshirts/graphic-tshirt.jpg",
+              "sizes": [
+                "S",
+                "M",
+                "L"
+              ],
+              "colors": [
+                "White",
+                "Black",
+                "Red"
+              ]
+            },
+            {
+              "id": 2202,
+              "title": "Plain T-Shirt",
+              "price": 20,
+              "image": "/images/women/tshirts/plain-tshirt.jpg",
+              "sizes": [
+                "S",
+                "M",
+                "L",
+                "XL"
+              ],
+              "colors": [
+                "Pink",
+                "Blue"
+              ]
+            }
+          ]
+        },
+        {
+          "id": 204,
+          "name": "Sweatshirts",
+          "products": [
+            {
+              "id": 2301,
+              "title": "Hooded Sweatshirt",
+              "price": 40,
+              "image": "/images/women/sweatshirts/hooded-sweatshirt.jpg",
+              "sizes": [
+                "M",
+                "L",
+                "XL"
+              ],
+              "colors": [
+                "Gray",
+                "Black"
+              ]
+            },
+            {
+              "id": 2302,
+              "title": "Oversized Sweatshirt",
+              "price": 50,
+              "image": "/images/women/sweatshirts/oversized-sweatshirt.jpg",
+              "sizes": [
+                "M",
+                "L"
+              ],
+              "colors": [
+                "Beige",
+                "Pink"
+              ]
+            }
+          ]
+        },
+        {
+          "id": 205,
+          "name": "Shoes",
+          "products": [
+            {
+              "id": 2401,
+              "title": "Running Shoes",
+              "price": 80,
+              "image": "/images/women/shoes/running-shoes.jpg",
+              "sizes": [
+                "36",
+                "37",
+                "38",
+                "39",
+                "40"
+              ],
+              "colors": [
+                "Black",
+                "White",
+                "Pink"
+              ]
+            },
+            {
+              "id": 2402,
+              "title": "High Heels",
+              "price": 100,
+              "image": "/images/women/shoes/high-heels.jpg",
+              "sizes": [
+                "36",
+                "37",
+                "38",
+                "39"
+              ],
+              "colors": [
+                "Red",
+                "Nude"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Girls",
+      "subcategories": [
+        {
+          "id": 301,
+          "name": "Coats",
+          "products": []
+        },
+        {
+          "id": 302,
+          "name": "Jeans",
+          "products": []
+        },
+        {
+          "id": 303,
+          "name": "T-Shirts",
+          "products": []
+        },
+        {
+          "id": 304,
+          "name": "Sweatshirts",
+          "products": []
+        },
+        {
+          "id": 305,
+          "name": "Shoes",
+          "products": []
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "name": "Boys",
+      "subcategories": [
+        {
+          "id": 401,
+          "name": "Coats",
+          "products": []
+        },
+        {
+          "id": 402,
+          "name": "Jeans",
+          "products": []
+        },
+        {
+          "id": 403,
+          "name": "T-Shirts",
+          "products": []
+        },
+        {
+          "id": 404,
+          "name": "Sweatshirts",
+          "products": []
+        },
+        {
+          "id": 405,
+          "name": "Shoes",
+          "products": []
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "name": "Sales",
+      "subcategories": [
+        {
+          "id": 501,
+          "name": "bags",
+          "products": [
+            {
+              "id": 5401,
+              "title": "Leather bags",
+              "price": 89.5,
+              "image": "https://s3-alpha-sig.figma.com/img/6449/a664/898ce684bc4f58c68bee050534c714ac?Expires=1736726400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=doPT9YiSjyUfzgw4hPklni88A9O9SCEnfO4e67YZG2iRMuJNjhnKQCrkd2laP81bm4y9VPBT3UCobFpxVSkhtlrudCOjmOGapLa-NyoLCQ6eawHQ6e6uSsEDK2Ci0z95RjZQ9NqV2hoIUpsRURYUxtKD-O2N7igiFUPEsLHfWbB91ePhHpeaal6BmbU22QIs7yANvWl~roTVH8WwW0aGcxaOpqcorL-jUZr5ovwPiD40sxTsanHJlIFopjM7iG~Ss-jK71~elJX9U1~CCQmBveZsicEIw52ayzwAh8dAAI5rHN3YDDD6c7ziI2l3w8xtm80Y0Pcs~CJa-ScI9dBcsA__",
+              "colors": [
+                "Black",
+                "White",
+                "Red"
+              ],
+              "originprice": 179
+            }
+          ]
+        },
+        {
+          "id": 502,
+          "name": "Jeans",
+          "products": [
+            {
+              "id": 5402,
+              "title": "Skinny Jeans",
+              "price": 40,
+              "image": "https://s3-alpha-sig.figma.com/img/81bb/9d54/3f375cd64d770fdec7757d29a36279af?Expires=1736726400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=n8LsW2YcCyDOMIXZzwQ0AyQ7cY2ogfy6Egn67D3MfnWUbvDqRLDAHDDC~xNSAhLrlWrVIWa9-w0VjDjbETahq~dEs5A0C5uZR2~IKc7MywAz3g7v~4FmyQqz30ixty3hdNMK-hScO5ARxqb7uo17EKWWNXv2pH7hoaEZE6M-vTZgMpuVj82LusKERo-J8m25WvtsIZzPudxpX-HUVsRYaNV2jzLepgs5tR9Ksfkh0GFXQinzQidh~AoHOquFZHTkcaGhW9l45Fi7uhjsZNmFIOJ3wd8Mkf2kK9CP3b6tXzaxzqbuAF0P0tpBhv6uFZ14nVx4yTDVd89vgbAiC6JKcw__",
+              "sizes": [
+                "24",
+                "26",
+                "28",
+                "30"
+              ],
+              "colors": [
+                "Black",
+                "White",
+                "Blue"
+              ],
+              "originprice": 80
+            }
+          ]
+        },
+        {
+          "id": 505,
+          "name": "Shoes",
+          "products": [
+            {
+              "id": 5405,
+              "title": "Running Shoes",
+              "price": 119.16,
+              "image": "https://s3-alpha-sig.figma.com/img/925c/849a/b5bb4f993dc5db4c016f1d07d02f447b?Expires=1736726400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=VR2PQaudS7OZtgqYFfkadUTo2mcCIDGxrW1hWRqtihDjqymaAwwQ2JI-uQxRStzFD4v9wWjvZTQ0AfrHYDwlGnk4V6OzmAhYulzlz7uR12QUI1R7U7DOxB~B9RTFEqYtKAE31H7Mrub-pEi5mfpn1MirpcuYzC5Zxtgmkt96dnJEpwyOLPFq5RqoGOJx5k3Wplxu9wxlyFrQSuTcrSUJzNDp3A6vF1PiKRqQG68SENvubUW-4twBJpBN-jIM~97jTygszjLeCH3scHwbcuO2ojwrw6w3s3Wgy-JJAVGm4vX0b38rYxhuKyOsUSN8YXvmhX6-GdGe~lvjAyhF3eh2Xg__",
+              "sizes": [
+                "36",
+                "37",
+                "38",
+                "39",
+                "40"
+              ],
+              "colors": [
+                "Black",
+                "White",
+                "Pink"
+              ],
+              "originprice": 148.95
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "id": "0a0a",
+      "fullname": "Yetta",
+      "email": "aychinguliyeva@gmail.com",
+      "pass": "123"
+    },
+    {
+      "id": "5fb7",
+      "fullname": "Leonard",
+      "email": "Netaze4288@mail.ru",
+      "pass": "12345"
+    }
+  ]
+}
